@@ -1,0 +1,51 @@
+.BorderBox{
+    width: auto;
+    height: 100%;
+    border: 20px solid blue ;
+    padding: 1rem ;
+    min-height: 91vh;
+    background: #F0EBE3;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    display: flex;
+   margin-left: auto;
+   margin-right: auto;
+  }
+  .Block{
+    width: 4rem;
+height: 4rem;
+background-color: cornflowerblue;
+padding: 1rem;
+text-align: center;
+border-radius: 7px;
+margin: 1rem;
+z-index: 0;
+  }
+  .fence{
+    width: 99%;
+    height: 40rem;
+    border: 10px solid red ;
+    display: flex;
+    overflow: hidden;
+    flex-wrap: wrap;
+
+  }
+  .Heading{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 34px;
+letter-spacing: -0.001em;
+color: #EB4747;
+  }
